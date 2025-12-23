@@ -14,7 +14,8 @@ body {
 
 /* =========================
    TOP BAR
-  
+   ========================= */
+   
 .topbar {
   height: 60px;
   background: #ffffff;
@@ -24,16 +25,8 @@ body {
   padding: 0 24px;
 }
 
- ========================= */
-.topbar {
-  height: 64px;
-  background: linear-gradient(135deg, #7ea1ec);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 28px;
-  color: #ffffff;
-}
+
+
 
 
 
